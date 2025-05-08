@@ -6,6 +6,6 @@ This project was fullifiled under the partial requiremnt for the Master in Softw
 
 The Implemented solution involes 4 main approaces with each of them being located in sepqret notebooks. 
 
-The details of Data preprocesing and help to setup an download the dataset can be found in the last notebook.
+The details of Data preprocesing and help to setup an download the dataset can be found in the first notebook.
 
 The original dataset can be found here: https://zenodo.org/record/7022736
